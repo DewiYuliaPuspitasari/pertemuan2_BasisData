@@ -14,3 +14,5 @@
 ![image](https://github.com/DewiYuliaPuspitasari/pertemuan2_BasisData/assets/148309663/37b4282b-d4b0-4812-be4e-8756ab7d9234)
 - buat data database yang akan dibuat dengan syntax = insert into Mahasiswa (column1, columnN) VALUES (value1, valueN);
 ![image](https://github.com/DewiYuliaPuspitasari/pertemuan2_BasisData/assets/148309663/d977123d-3b47-42ed-9ad6-bac29dde24d0)
+-kemudian di dapatkan hasil seperti ini
+![Screenshot (344)](https://github.com/DewiYuliaPuspitasari/pertemuan2_BasisData/assets/148309663/07cd2b59-df17-4a28-9627-b9eab9a152a8)
